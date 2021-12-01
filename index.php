@@ -1,1 +1,1 @@
-<?php include_once("file:///Users/weerapattosup/Desktop/Des322_6222770875/index.html");>
+<?php include_once("index.html");>
